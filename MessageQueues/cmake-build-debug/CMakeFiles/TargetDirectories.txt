@@ -1,0 +1,4 @@
+/Users/stepa/Documents/IPC/MessageQueues/cmake-build-debug/CMakeFiles/Proc1.dir
+/Users/stepa/Documents/IPC/MessageQueues/cmake-build-debug/CMakeFiles/Proc2.dir
+/Users/stepa/Documents/IPC/MessageQueues/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stepa/Documents/IPC/MessageQueues/cmake-build-debug/CMakeFiles/rebuild_cache.dir
